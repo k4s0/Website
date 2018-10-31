@@ -1,6 +1,6 @@
 # Source Code of My Personal Website
 <p align="center">
-        <img src="https://img.shields.io/badge/Version-1.3.2-blue.svg">
+        <img src="https://img.shields.io/badge/Version-1.3.3-blue.svg">
         <img src="https://img.shields.io/badge/License-GPLv3-yellow.svg">
         <img src="https://img.shields.io/badge/Build-Stable-green.svg">
 </p>
