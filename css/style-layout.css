@@ -318,7 +318,7 @@ header .head-top .top-menu ul li.active .btn {
 
 .section.started .started-content .typed-subtitle,
 .section.started .started-content .typed-bread {
-  font-size: 13px;
+  font-size: 26px;
 }
 
 .section.started .mouse_btn {
@@ -950,7 +950,7 @@ footer .soc a {
 }
 
 footer .soc a .ion {
-  font-size: 17px;
+  font-size: 26px;
   color: #363636;
   transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
