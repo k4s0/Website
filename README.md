@@ -1,12 +1,6 @@
-# Source Code of My Personal Website
+# Dev website source code
 <p align="center">
-        <img src="https://img.shields.io/badge/Version-1.3.5-blue.svg">
+        <img src="https://img.shields.io/badge/Version-0.1-blue.svg">
         <img src="https://img.shields.io/badge/License-GPLv3-yellow.svg">
-        <img src="https://img.shields.io/badge/Build-Stable-green.svg">
+        <img src="https://img.shields.io/badge/Build-unstable-red.svg">
 </p>
-
-#### External Sources
-
-- [boostrap](https://getbootstrap.com/)
-- [fontawesome](https://fontawesome.io/)
-- [owl-carousel](https://owlcarousel2.github.io/OwlCarousel2/)
