@@ -33,11 +33,14 @@ a.btn:hover,
 
 .preloader .load {
   color: #78cc6d;
+  font-size: 24px;
+  display: none;
 }
 
 .preloader .typed-load,
 .preloader .typed-cursor {
   color: #78cc6d;
+  font-size: 24px;
 }
 
 input:focus,
